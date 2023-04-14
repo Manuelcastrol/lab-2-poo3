@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\bin\Debug\lob 2 poo3.exe.config
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\bin\Debug\lob 2 poo3.exe
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\bin\Debug\lob 2 poo3.pdb
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\obj\Debug\lob 2 poo3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\obj\Debug\lob 2 poo3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\obj\Debug\lob 2 poo3.exe
+C:\Users\MINEDUCYT\source\repos\lob 2 poo3\lob 2 poo3\obj\Debug\lob 2 poo3.pdb
